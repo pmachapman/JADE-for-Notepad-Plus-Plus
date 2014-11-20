@@ -1,4 +1,4 @@
-JADE-for-Notepad-Plus-Plus
+JADE for Notepad++
 ==========================
 
 JADE syntax highlighting for Notepad++
