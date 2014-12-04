@@ -24,9 +24,9 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">abortTransaction and begin beginTransaction commitTransaction constants create delete discreteLock do else elseif end endforeach endif epilog foreach if inheritMethod input not on or persistent return then transient vars where write</Keywords>
-            <Keywords name="Keywords2">app currentSession exception method process null self</Keywords>
-            <Keywords name="Keywords3">Any Boolean Button CheckBox Control Exception File Integer ListBox Object ObjectArray String StringArray StringUtf8 TextBox</Keywords>
+            <Keywords name="Keywords1">abortTransaction abortTransientTransaction and begin beginTransaction beginTransientTransaction break classMapDefinitions commitTransaction constants continue create delete discreteLock do else elseif end endforeach endif endwhile epilog foreach if inheritMethod input not on or persistent return then transient vars where while write</Keywords>
+            <Keywords name="Keywords2">app currentSession exception method process null self system</Keywords>
+            <Keywords name="Keywords3">Any Boolean Button CheckBox Control Date Decimal Exception File Integer Iterator ListBox Object ObjectArray String StringArray StringUtf8 TextBox TimeStamp</Keywords>
             <Keywords name="Keywords4">clientExecution in io mapping updating</Keywords>
             <Keywords name="Keywords5">CrLf Ex_Pass_Back Ex_Resume_Next false Tab true</Keywords>
             <Keywords name="Keywords6"></Keywords>
