@@ -24,10 +24,10 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">abortTransaction abortTransientTransaction and begin beginTransaction beginTransientTransaction break classMapDefinitions commitTransaction constants continue create delete discreteLock do else elseif end endforeach endif endwhile epilog foreach if inheritMethod input not on or persistent return then transient vars where while write</Keywords>
+            <Keywords name="Keywords1">_cloneOf abortTransaction abortTransientTransaction and attributeDefinitions begin beginTransaction beginTransientTransaction break classMapDefinitions commitTransaction constantDefinitions constants continue create databaseDefinitions databaseFileDefinitions defaultFileDefinition delete discreteLock do documentationText else elseif end endforeach endif endwhile epilog eventMethodMappings externalFunctionSources foreach if inheritMethod input interfaceDefs inverseDefinitions jadeMethodDefinitions jadeMethodSources jadeVersionNumber libraryDefinitions localeDefinitions membershipDefinitions mod not on or persistent referenceDefinitions return reversed schemaDefaultLocale schemaDefinition setModifiedTimeStamp subclassOf subschemaOf then transient typeDefinitions typeHeaders typeSources vars where while write</Keywords>
             <Keywords name="Keywords2">app currentSession exception method process null self system</Keywords>
-            <Keywords name="Keywords3">Any Boolean Button CheckBox Control Date Decimal Exception File Integer Iterator ListBox Object ObjectArray String StringArray StringUtf8 TextBox TimeStamp</Keywords>
-            <Keywords name="Keywords4">clientExecution in io mapping updating</Keywords>
+            <Keywords name="Keywords3">Any Boolean Button CheckBox CMDFileSave ComboBox Control Date Decimal Exception File Integer Iterator ListBox Object ObjectArray String StringArray StringUtf8 TextBox TimeStamp</Keywords>
+            <Keywords name="Keywords4">clientExecution implicitMemberInverse in io mapping readonly updating</Keywords>
             <Keywords name="Keywords5">CrLf Ex_Pass_Back Ex_Resume_Next false Tab true</Keywords>
             <Keywords name="Keywords6"></Keywords>
             <Keywords name="Keywords7"></Keywords>
