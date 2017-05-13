@@ -1,15 +1,14 @@
-JADE for Notepad++
-==========================
+# JADE for Notepad++
 
 JADE syntax highlighting for Notepad++
 
-##Overview
+## Overview
 
 JADE is an object oriented database from the Jade Software Corporation. JADE for Notepad++ provides custom syntax highlighting for JADE methods in Notepad++. This is particularily useful if you are viewing schema files in Notepad++.
 
 This project is a work in progress, and currently only supports the most common language keywords and RootSchema classes.
 
-##Features
+## Features
 
 * Syntax colouring matching the JADE editor defaults
 * Implementation of global constants
@@ -19,7 +18,7 @@ This project is a work in progress, and currently only supports the most common 
 * Implementation of RootSchema interfaces
 * Implementation of system variables
 
-##Installation
+## Installation
 
 1. Download the [JADE.xml](https://github.com/pmachapman/JADE-for-Notepad-Plus-Plus/blob/master/JADE.xml) file
 2. Download the latest version of [Notepad++](http://notepad-plus-plus.org/download/)
@@ -29,7 +28,7 @@ This project is a work in progress, and currently only supports the most common 
 6. Close the dialog, restart Notepad++, and JADE will now be in your `Language` menu
 
 
-##Upgrading
+## Upgrading
 
 1. Download the latest [JADE.xml](https://github.com/pmachapman/JADE-for-Notepad-Plus-Plus/blob/master/JADE.xml) file
 2. Open Notepad++
